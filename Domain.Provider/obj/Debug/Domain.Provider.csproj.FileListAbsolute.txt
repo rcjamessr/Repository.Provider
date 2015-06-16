@@ -1,0 +1,4 @@
+C:\Git\Repository.Provider\Repository.Provider\Domain.Provider\bin\Debug\Domain.Provider.dll
+C:\Git\Repository.Provider\Repository.Provider\Domain.Provider\bin\Debug\Domain.Provider.pdb
+C:\Git\Repository.Provider\Repository.Provider\Domain.Provider\obj\Debug\Domain.Provider.dll
+C:\Git\Repository.Provider\Repository.Provider\Domain.Provider\obj\Debug\Domain.Provider.pdb
