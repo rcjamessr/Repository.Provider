@@ -1,0 +1,7 @@
+C:\Git\Repository.Provider\Repository.Provider\Domain.Worker\obj\Debug\Domain.Worker.csprojResolveAssemblyReference.cache
+C:\Git\Repository.Provider\Repository.Provider\Domain.Worker\bin\Debug\Domain.Worker.dll
+C:\Git\Repository.Provider\Repository.Provider\Domain.Worker\bin\Debug\Domain.Worker.pdb
+C:\Git\Repository.Provider\Repository.Provider\Domain.Worker\bin\Debug\Domain.Provider.dll
+C:\Git\Repository.Provider\Repository.Provider\Domain.Worker\bin\Debug\Domain.Provider.pdb
+C:\Git\Repository.Provider\Repository.Provider\Domain.Worker\obj\Debug\Domain.Worker.dll
+C:\Git\Repository.Provider\Repository.Provider\Domain.Worker\obj\Debug\Domain.Worker.pdb
